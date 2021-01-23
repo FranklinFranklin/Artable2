@@ -19,6 +19,7 @@
 		DA2D8D0D25BC7C8C000C6AB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA2D8D0B25BC7C8C000C6AB3 /* Main.storyboard */; };
 		DA2D8D1225BC7C93000C6AB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA2D8D1025BC7C93000C6AB3 /* LaunchScreen.storyboard */; };
 		DA2D8D2125BC7CFB000C6AB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA2D8CF225BC7C30000C6AB3 /* Assets.xcassets */; };
+		DA2D8D2525BCB31E000C6AB3 /* LoginStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA2D8D2425BCB31E000C6AB3 /* LoginStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		DA2D8D0C25BC7C8C000C6AB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DA2D8D1125BC7C93000C6AB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA2D8D1325BC7C93000C6AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA2D8D2425BCB31E000C6AB3 /* LoginStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LoginStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				DA2D8CEF25BC7C29000C6AB3 /* Main.storyboard */,
 				DA2D8CF425BC7C30000C6AB3 /* LaunchScreen.storyboard */,
 				DA2D8CF725BC7C30000C6AB3 /* Info.plist */,
+				DA2D8D2425BCB31E000C6AB3 /* LoginStoryboard.storyboard */,
 			);
 			path = Artable;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				DA2D8CF625BC7C30000C6AB3 /* LaunchScreen.storyboard in Resources */,
 				DA2D8CF325BC7C30000C6AB3 /* Assets.xcassets in Resources */,
 				DA2D8CF125BC7C29000C6AB3 /* Main.storyboard in Resources */,
+				DA2D8D2525BCB31E000C6AB3 /* LoginStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
